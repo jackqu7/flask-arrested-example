@@ -1,0 +1,9 @@
+ipdb==0.10.0
+pytest==2.9.2
+pytest-cov==2.2.1
+Flask-SQLAlchemy==2.1
+flask-oauthlib==0.9.3
+flask>=0.10.0
+sqlalchemy==1.0.13
+git+git://github.com/mikeywaites/kim@release/1.0.0-beta#egg=kim
+git+git://github.com/mikeywaites/flask-arrested.git@release/0.1.0-dev#egg=arrested
